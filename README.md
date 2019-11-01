@@ -10,9 +10,9 @@ Dikembangkan dengan Codeigniter 3.10 untuk framework dan Codeigniter REST SERVER
 
 2. Pengisian Data
 ```php
-    $this->topsis->setNilaiTopKriteria($this->TopsisModel->getDataTopKriteria());
-		$this->topsis->setNilaiTopAlternatif($this->TopsisModel->getDataTopAlternatif());
-		$this->topsis->setNilaiTopSample($this->TopsisModel->getDataTopSample());
+$this->topsis->setNilaiTopKriteria($this->TopsisModel->getDataTopKriteria());
+$this->topsis->setNilaiTopAlternatif($this->TopsisModel->getDataTopAlternatif());
+$this->topsis->setNilaiTopSample($this->TopsisModel->getDataTopSample());
 ```
 Pada bagian parameter bisa diganti sesuai keinginan. lihat pada bagian model
 ```
