@@ -2,6 +2,10 @@
 Sistem Pendukung Keputusan Menggunakan Metode TOPSIS (Technique For Others Reference by Similarity to Ideal Solution).
 Dikembangkan dengan Codeigniter 3.10 untuk framework dan Codeigniter REST SERVER untuk rest api.
 
+# Data Tersedia
+1. Rekomendasi Makanan
+2. Rekomendasi Handphone
+
 # Dokumentasi
 1. Import Database pada 
 ```
