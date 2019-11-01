@@ -1,4 +1,4 @@
-# topsis-rest-api
+# Topsis Rest API
 Sistem Pendukung Keputusan Menggunakan Metode TOPSIS (Technique For Others Reference by Similarity to Ideal Solution).
 Dikembangkan dengan Codeigniter 3.10 untuk framework dan Codeigniter REST SERVER untuk rest api.
 
