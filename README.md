@@ -26,7 +26,7 @@ $this->topsis->getRangking();
 //lalu untuk mendapatkan nilai akses properti berikut
 $this->topsis->hasilRangking;
 ```
-4. Get Respone JSON denngan CodeIgniter REST SERVER
+4. Get Respone JSON dengan CodeIgniter REST SERVER
 ```php
 public function index_get()
 {
