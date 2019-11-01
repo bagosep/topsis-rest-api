@@ -4,7 +4,15 @@ Dikembangkan dengan Codeigniter 3.10 untuk framework dan Codeigniter REST SERVER
 
 # Data Tersedia
 1. Rekomendasi Makanan
+cek pada:
+```
+./application/controller/TopsisMakanan.php
+```
 2. Rekomendasi Handphone
+cek pada:
+```
+./application/controller/TopsisHandphone.php
+```
 
 # Dokumentasi
 1. Import Database pada 
