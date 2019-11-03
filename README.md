@@ -13,6 +13,26 @@ cek pada:
 ```
 ./application/controller/TopsisHandphone.php
 ```
+3. Rekomendasi Minuman
+cek pada:
+```
+./application/controller/TopsisMinuman.php
+```
+4. Rekomendasi Jajanan
+cek pada:
+```
+./application/controller/TopsisJajanan.php
+```
+5. Rekomendasi Cafe
+cek pada:
+```
+./application/controller/TopsisCafe.php
+```
+6. Rekomendasi Laptop
+cek pada:
+```
+./application/controller/TopsisLaptop.php
+```
 
 # Dokumentasi
 1. Import Database pada 
